@@ -30,6 +30,7 @@ body{
     width: 50%;
     height: 400px;
     background: url(./coffee9.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
     box-sizing: border-box;
 }
